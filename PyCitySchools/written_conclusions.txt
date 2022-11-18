@@ -1,0 +1,3 @@
+Written Conclusions
+Based on the data, we can conclude that the top 5 performing schools based on the overall passing percentage of students, in both math and reading, are charter schools. We can also see that the bottom 5 schools performing with the lowest overall passing percentage are disctrict schools. 
+Based on the grouped_spend_df, we can see that schools spending less money per students, are performing higher than schools spending more. Schools that are spending <$615 per student, are consistenting out performing schools spending >$615 per students in every catergory we measured. 
